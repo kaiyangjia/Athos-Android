@@ -9,6 +9,16 @@ public class Athos {
 
 
     /**
+     * add a package
+     *
+     * @param packageName
+     */
+    public static void addPackage(String packageName) {
+
+    }
+
+
+    /**
      * Create a instance for the wrapperInterface
      *
      * @param wrapperInterface The wrapper interface, must be interface
